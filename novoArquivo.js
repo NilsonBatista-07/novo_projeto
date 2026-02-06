@@ -1,8 +1,8 @@
 let novo =["nilson"]
 console.log(novo)
 if (novo != "nilson"){
-    alert(`Ops ${novo}, você nao é Adminisrador`)
+    alert(`Ops ${novo} , \n Você nao é Administrador`)
 
 } else {
-    alert(`Seja bem vindo ${novo}, que bom te ver de volta`)
+    alert(`Seja bem vindo ${novo}, bom te ter de volta`)
 }
