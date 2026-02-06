@@ -6,3 +6,4 @@ if (novo != "nilson"){
 } else {
     alert(`Seja bem vindo ${novo}, bom te ter de volta`)
 }
+console.log("nova branch no master")
